@@ -1,0 +1,19 @@
+% % % <!test.html>
+<TITLE>Test</TITLE>
+<BODY>This is a <b>test</b> program
+for ras.
+</BODY>
+% % % % %    1 answer
+   2 bin
+   3 Makefile
+   4 npbin
+   5 npshell
+   6 npshell.cpp
+   7 output
+   8 README.md
+   9 test
+  10 test7
+  11 testcase
+  12 test.html
+  13 work_dir
+% 

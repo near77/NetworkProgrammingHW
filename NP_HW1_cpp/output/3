@@ -1,0 +1,5 @@
+% % MANPATH=/opt/rh/v8314/root/usr/share/man:/opt/rh/rh-ruby25/root/usr/local/share/man:/opt/rh/rh-ruby25/root/usr/share/man:/opt/rh/v8314/root/usr/share/man:/opt/rh/nodejs010/root/usr/share/man:/opt/rh/llvm-toolset-7/root/usr/share/man:/opt/rh/go-toolset-7/root/usr/share/man:/opt/rh/devtoolset-7/root/usr/share/man:/opt/remi/php72/root/usr/share/man:
+PWD=/u/gcs/108/0856124/NP_HW1_ver2
+PYTHONPATH=/opt/rh/v8314/root/usr/lib/python2.7/site-packages:/opt/rh/v8314/root/usr/lib/python2.7/site-packages:/opt/rh/nodejs010/root/usr/lib/python2.7/site-packages:/opt/rh/llvm-toolset-7/root/usr/lib/python2.7/site-packages:/opt/rh/devtoolset-7/root/usr/lib64/python2.7/site-packages:/opt/rh/devtoolset-7/root/usr/lib/python2.7/site-packages
+NP=PROGRAMMING
+% 
